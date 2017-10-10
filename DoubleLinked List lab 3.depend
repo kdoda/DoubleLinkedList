@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1494330885 source:c:\users\user\desktop\c++\doublelinked list lab 3\main.cpp
+	"Linked_list.h"
+	"Linked_list.cpp"
+	<iostream>
+
+1494331250 c:\users\user\desktop\c++\doublelinked list lab 3\linked_list.h
+	<iostream>
+
+1494330957 c:\users\user\desktop\c++\doublelinked list lab 3\linked_list.cpp
+	"Linked_list.h"
+
